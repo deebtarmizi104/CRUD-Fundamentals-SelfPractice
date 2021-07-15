@@ -7,3 +7,13 @@ Make use of:
 - xampp 8.0.8
 - php 8.0.8
 - bootstrap 5
+
+Covering:
+- Material Design
+- Database and Configuration
+- Routes
+- Controller
+- Model and Migrate
+- Page creation
+- Data Process (insertion, reading, modification, update, and deletion)
+- Pagination
