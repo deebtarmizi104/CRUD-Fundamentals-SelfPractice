@@ -7,6 +7,7 @@ Make use of:
 - xampp 8.0.8
 - php 8.0.8
 - bootstrap 5
+- composer 2.1.3
 
 Covering:
 - Material Design
