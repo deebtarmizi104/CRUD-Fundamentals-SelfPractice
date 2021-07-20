@@ -17,3 +17,11 @@
 - php 8.0.8
 - bootstrap 5
 - composer 2.1.3
+
+## Footnotes
+* install composer
+* unlinked composer
+* create laravel project - composer create-project --prefer-dist laravel/laravel projectname
+* update composer - composer require laravel/ui "^3.0" --dev
+* install default authentication - php artisan ui vue --auth
+
